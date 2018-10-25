@@ -1,0 +1,86 @@
+h1{ text-align: center; }
+
+.main{
+    margin: auto;
+    margin: 30px 150px;
+}
+
+.box{
+    border-style: solid;
+    border-width: thin;
+    border-radius: 20px;
+    background-color: lightgray;
+    border-color: lightgray;
+    height: 100%;
+    text-align: justify;
+}
+
+.flex-row{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+}
+
+.flex-col{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.col-1{
+    width: 30%;
+    margin-right: 20px;
+}
+
+.col-2{
+    width: 70%;
+    margin-left: 20px;
+}
+
+.col-3{
+    width: 50%;
+}
+
+.block-inline{
+    padding: 10px;
+    background-color: lightgray;
+    border-radius: 20px;
+    border-style: solid;
+    border-color: lightgray;
+}
+
+img{ padding: 10px; }
+
+.row{
+    margin-bottom: 40px;
+}
+
+.input{
+    border-style: solid;
+    border-width: thin;
+    border-color: black;
+    height: 50px;
+}
+
+.button{
+    border-color: lightgray;
+    background-color: lightgray;
+    font-size: 20pt;
+    text-align: center;
+    border-radius: 20px;
+    vertical-align: middle;
+    line-height: 50px;
+}
+
+.bordersolidrad{
+    border-style: solid;
+    border-width: thin;
+    border-radius: 25px;
+}
+
+.marginright{ margin-right: 20px; }
+.marginleft{ margin-left: 20px; }
+.margintop{ margin-top: 20px; }
+.marginbottom{ margin-bottom: 20px; }
+.marginall{ margin: 20px }

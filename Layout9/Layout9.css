@@ -1,0 +1,37 @@
+#addcomment, .container{ width: 900px; margin: auto; margin-bottom: 50px;}
+
+.container{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.row {
+    border-style: solid;
+    border-width: thin;
+    border-radius: 30px;
+    border-color: lightgray;
+    background-color: lightgray;
+    margin-bottom: 30px;
+}
+
+#comment{
+    width: 650px;
+    height: 200px;
+    border-style: solid;
+    border-width: thin;
+    border-radius: 20px;
+    margin-left: 250px;
+}
+
+#action {
+    width: 120px;
+    border-style: solid;
+    border-width: thin;
+    border-radius: 10px;
+    margin-left: 250px;
+    margin-top: 20px;
+    padding: 10px;
+    text-align: center;
+    font-size: 15pt;
+    background-color: gray;
+}
