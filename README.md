@@ -7,7 +7,6 @@ Thực hiện bởi [Nguyễn Tiến Mạnh](https://github.com/tienmanh2208)
 ## Giao diện
 1. [Layout 1](https://tienmanh2208.github.io/Layout1/Layout1)
 2. [Layout 2](https://tienmanh2208.github.io/Layout2/Layout2)
-   [Layout 2 - using flexbox](https://tienmanh2208.github.io/Layout2(Flexbox)/Layout2_flexbox)
 3. [Layout 3](https://tienmanh2208.github.io/Layout3/Layout3)
 4. [Layout 4](https://tienmanh2208.github.io/Layout4/Layout4)
 5. [Layout 5](https://tienmanh2208.github.io/Layout5/Layout5)
